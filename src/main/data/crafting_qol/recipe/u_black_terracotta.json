@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": "#minecraft:terracotta",
+    "b": "minecraft:black_dye"
+  },
+  "result": {
+    "id": "minecraft:black_terracotta",
+    "count": 8
+  }
+}

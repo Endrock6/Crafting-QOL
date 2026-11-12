@@ -1,0 +1,19 @@
+{
+  "_fv": 89,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smoking",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "BLOCKS",
+    "xpReward": 1.0,
+    "cookingTime": 100,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smokingInputStack": "Blocks.SAPLING",
+    "smokingReturnStack": "Blocks.DEADBUSH",
+    "name": "smoking_dead_bushes",
+    "namespace": "mod"
+  }
+}

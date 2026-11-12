@@ -1,0 +1,29 @@
+{
+  "_fv": 89,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      "Blocks.CHEST",
+      "Items.SHULKER_SHELL",
+      "",
+      "Items.SHULKER_SHELL",
+      "Items.DYE#2",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "recipeReturnStack": "Blocks.GREEN_SHULKER_BOX",
+    "name": "shulkergreen",
+    "namespace": "mod"
+  }
+}

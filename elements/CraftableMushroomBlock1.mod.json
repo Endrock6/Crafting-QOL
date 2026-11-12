@@ -1,0 +1,29 @@
+{
+  "_fv": 89,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "BUILDING",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      "Blocks.RED_MUSHROOM",
+      "Blocks.RED_MUSHROOM",
+      "",
+      "Blocks.RED_MUSHROOM",
+      "Blocks.RED_MUSHROOM",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "recipeReturnStack": "Blocks.RED_MUSHROOM_BLOCK",
+    "name": "craftable_mushroom_block_1",
+    "namespace": "mod"
+  }
+}

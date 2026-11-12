@@ -1,0 +1,29 @@
+{
+  "_fv": 89,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 8,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "BUILDING",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      "Blocks.STAINED_HARDENED_CLAY",
+      "Blocks.STAINED_HARDENED_CLAY",
+      "Blocks.STAINED_HARDENED_CLAY",
+      "Blocks.STAINED_HARDENED_CLAY",
+      "Items.DYE#5",
+      "Blocks.STAINED_HARDENED_CLAY",
+      "Blocks.STAINED_HARDENED_CLAY",
+      "Blocks.STAINED_HARDENED_CLAY",
+      "Blocks.STAINED_HARDENED_CLAY"
+    ],
+    "recipeReturnStack": "Blocks.STAINED_HARDENED_CLAY#10",
+    "name": "u_purple_terracotta",
+    "namespace": "mod"
+  }
+}

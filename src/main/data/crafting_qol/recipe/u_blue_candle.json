@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    "#minecraft:candles",
+    "minecraft:blue_dye"
+  ],
+  "result": {
+    "id": "minecraft:blue_candle",
+    "count": 1
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "_fv": 89,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 8,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "BUILDING",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      "Blocks.STAINED_HARDENED_CLAY",
+      "Blocks.STAINED_HARDENED_CLAY",
+      "Blocks.STAINED_HARDENED_CLAY",
+      "Blocks.STAINED_HARDENED_CLAY",
+      "Items.DYE#10",
+      "Blocks.STAINED_HARDENED_CLAY",
+      "Blocks.STAINED_HARDENED_CLAY",
+      "Blocks.STAINED_HARDENED_CLAY",
+      "Blocks.STAINED_HARDENED_CLAY"
+    ],
+    "recipeReturnStack": "Blocks.STAINED_HARDENED_CLAY#5",
+    "name": "u_lime_terracotta",
+    "namespace": "mod"
+  }
+}

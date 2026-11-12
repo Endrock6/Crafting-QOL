@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    "a a",
+    "aba",
+    "aca"
+  ],
+  "key": {
+    "a": "minecraft:iron_ingot",
+    "b": "minecraft:polished_blackstone_pressure_plate",
+    "c": "minecraft:redstone"
+  },
+  "result": {
+    "id": "minecraft:detector_rail",
+    "count": 6
+  }
+}

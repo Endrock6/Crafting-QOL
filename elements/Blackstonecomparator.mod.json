@@ -1,0 +1,29 @@
+{
+  "_fv": 89,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "REDSTONE",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      "",
+      "Blocks.REDSTONE_TORCH",
+      "",
+      "Blocks.REDSTONE_TORCH",
+      "Items.QUARTZ",
+      "Blocks.REDSTONE_TORCH",
+      "Blocks.BLACKSTONE",
+      "Blocks.BLACKSTONE",
+      "Blocks.BLACKSTONE"
+    ],
+    "recipeReturnStack": "Items.COMPARATOR",
+    "name": "blackstonecomparator",
+    "namespace": "mod"
+  }
+}

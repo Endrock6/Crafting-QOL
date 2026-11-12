@@ -1,0 +1,29 @@
+{
+  "_fv": 89,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 8,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "BUILDING",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      "Blocks.STAINED_GLASS",
+      "Blocks.STAINED_GLASS",
+      "Blocks.STAINED_GLASS",
+      "Blocks.STAINED_GLASS",
+      "Items.DYE#18",
+      "Blocks.STAINED_GLASS",
+      "Blocks.STAINED_GLASS",
+      "Blocks.STAINED_GLASS",
+      "Blocks.STAINED_GLASS"
+    ],
+    "recipeReturnStack": "Blocks.STAINED_GLASS#11",
+    "name": "u_blue_glass",
+    "namespace": "mod"
+  }
+}

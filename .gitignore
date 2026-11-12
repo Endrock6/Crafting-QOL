@@ -1,0 +1,21 @@
+﻿# Gradle
+.gradle/
+build/
+run/
+
+# MCreator local data: backups, local history, caches, machine-specific settings
+.mcreator/
+
+# IDE / OS noise
+.idea/
+*.iml
+.vscode/
+*.log
+Thumbs.db
+desktop.ini
+
+# Exported pack artifacts
+export.zip
+
+# Eclipse project metadata
+.eclipse/

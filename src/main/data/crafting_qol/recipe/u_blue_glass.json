@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": "#c:glass_blocks/cheap",
+    "b": "minecraft:blue_dye"
+  },
+  "result": {
+    "id": "minecraft:blue_stained_glass",
+    "count": 8
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "#minecraft:wool_carpets",
+    "minecraft:pink_dye"
+  ],
+  "result": {
+    "id": "minecraft:pink_carpet",
+    "count": 1
+  }
+}

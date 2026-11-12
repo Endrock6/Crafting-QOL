@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    "#minecraft:banners",
+    "minecraft:magenta_dye"
+  ],
+  "result": {
+    "id": "minecraft:magenta_banner",
+    "count": 1
+  }
+}

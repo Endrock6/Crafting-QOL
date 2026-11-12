@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "#minecraft:wool_carpets",
+    "minecraft:light_gray_dye"
+  ],
+  "result": {
+    "id": "minecraft:light_gray_carpet",
+    "count": 1
+  }
+}

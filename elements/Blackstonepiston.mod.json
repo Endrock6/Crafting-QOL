@@ -1,0 +1,29 @@
+{
+  "_fv": 89,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "REDSTONE",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      "Blocks.PLANKS",
+      "Blocks.PLANKS",
+      "Blocks.PLANKS",
+      "Blocks.BLACKSTONE",
+      "Items.IRON_INGOT",
+      "Blocks.BLACKSTONE",
+      "Blocks.BLACKSTONE",
+      "Items.REDSTONE",
+      "Blocks.BLACKSTONE"
+    ],
+    "recipeReturnStack": "Blocks.PISTON",
+    "name": "blackstonepiston",
+    "namespace": "mod"
+  }
+}

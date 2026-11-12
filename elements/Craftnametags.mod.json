@@ -1,0 +1,29 @@
+{
+  "_fv": 89,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "EQUIPMENT",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      "",
+      "Items.STRING",
+      "Items.IRON_INGOT",
+      "",
+      "Items.PAPER",
+      "Items.STRING",
+      "Items.PAPER",
+      "",
+      ""
+    ],
+    "recipeReturnStack": "Items.NAME_TAG",
+    "name": "craftnametags",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "ccc"
+  ],
+  "key": {
+    "a": "#c:glass_blocks/cheap",
+    "b": "minecraft:nether_star",
+    "c": "minecraft:obsidian"
+  },
+  "result": {
+    "id": "minecraft:beacon",
+    "count": 1
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "_fv": 89,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "BUILDING",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      "",
+      "",
+      "",
+      "Items.BANNER",
+      "Items.DYE#2",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "recipeReturnStack": "Items.BANNER#2",
+    "name": "u_green_banner",
+    "namespace": "mod"
+  }
+}

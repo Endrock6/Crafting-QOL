@@ -1,0 +1,19 @@
+{
+  "_fv": 89,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "BLOCKS",
+    "xpReward": 6.3,
+    "cookingTime": 600,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "blastingInputStack": "Blocks.RAW_COPPER_BLOCK",
+    "blastingReturnStack": "Blocks.COPPER_BLOCK",
+    "name": "rawcopperblocksmelt",
+    "namespace": "mod"
+  }
+}

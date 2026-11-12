@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    "#minecraft:candles",
+    "minecraft:lime_dye"
+  ],
+  "result": {
+    "id": "minecraft:lime_candle",
+    "count": 1
+  }
+}

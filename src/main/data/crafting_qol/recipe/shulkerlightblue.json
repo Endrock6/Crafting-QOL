@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:chest",
+    "minecraft:shulker_shell",
+    "minecraft:shulker_shell",
+    "minecraft:light_blue_dye"
+  ],
+  "result": {
+    "id": "minecraft:light_blue_shulker_box",
+    "count": 1
+  }
+}

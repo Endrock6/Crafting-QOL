@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    "#minecraft:banners",
+    "minecraft:pink_dye"
+  ],
+  "result": {
+    "id": "minecraft:pink_banner",
+    "count": 1
+  }
+}

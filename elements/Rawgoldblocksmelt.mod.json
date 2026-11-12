@@ -1,0 +1,19 @@
+{
+  "_fv": 89,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "BLOCKS",
+    "xpReward": 9.0,
+    "cookingTime": 600,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "blastingInputStack": "Blocks.RAW_GOLD_BLOCK",
+    "blastingReturnStack": "Blocks.GOLD_BLOCK",
+    "name": "rawgoldblocksmelt",
+    "namespace": "mod"
+  }
+}

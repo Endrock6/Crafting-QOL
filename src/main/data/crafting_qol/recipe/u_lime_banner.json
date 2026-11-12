@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    "#minecraft:banners",
+    "minecraft:lime_dye"
+  ],
+  "result": {
+    "id": "minecraft:lime_banner",
+    "count": 1
+  }
+}

@@ -1,0 +1,2235 @@
+{
+  "mod_elements": [
+    {
+      "name": "Rawironblocksmelt",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rawironblocksmelt",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/rawironblocksmelt.json"
+        ]
+      }
+    },
+    {
+      "name": "Rawgoldblocksmelt",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rawgoldblocksmelt",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/rawgoldblocksmelt.json"
+        ]
+      }
+    },
+    {
+      "name": "Rawcopperblocksmelt",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rawcopperblocksmelt",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/rawcopperblocksmelt.json"
+        ]
+      }
+    },
+    {
+      "name": "Droppermakesdispenser",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "droppermakesdispenser",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/droppermakesdispenser.json"
+        ]
+      }
+    },
+    {
+      "name": "Shapelessshulker",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shapelessshulker",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/shapelessshulker.json"
+        ]
+      }
+    },
+    {
+      "name": "Shapelessbread",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shapelessbread",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/shapelessbread.json"
+        ]
+      }
+    },
+    {
+      "name": "Shapelesspaper",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shapelesspaper",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/shapelesspaper.json"
+        ]
+      }
+    },
+    {
+      "name": "Blackstonepiston",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blackstonepiston",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/blackstonepiston.json"
+        ]
+      }
+    },
+    {
+      "name": "Blackstoneobserver",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blackstoneobserver",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/blackstoneobserver.json"
+        ]
+      }
+    },
+    {
+      "name": "Blackstonedropper",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blackstonedropper",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/blackstonedropper.json"
+        ]
+      }
+    },
+    {
+      "name": "Blackstonedispenser",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blackstonedispenser",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/blackstonedispenser.json"
+        ]
+      }
+    },
+    {
+      "name": "Blackstonedetectorrail",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blackstonedetectorrail",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/blackstonedetectorrail.json"
+        ]
+      }
+    },
+    {
+      "name": "Blackstonerepeater",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blackstonerepeater",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/blackstonerepeater.json"
+        ]
+      }
+    },
+    {
+      "name": "Blackstonecomparator",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blackstonecomparator",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/blackstonecomparator.json"
+        ]
+      }
+    },
+    {
+      "name": "Craftgravel",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftgravel",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/craftgravel.json"
+        ]
+      }
+    },
+    {
+      "name": "Unpackice1",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "unpackice_1",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/unpackice_1.json"
+        ]
+      }
+    },
+    {
+      "name": "Unpackice2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "unpackice_2",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/unpackice_2.json"
+        ]
+      }
+    },
+    {
+      "name": "Craftnametags",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftnametags",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/craftnametags.json"
+        ]
+      }
+    },
+    {
+      "name": "Sanddye",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sanddye",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/sanddye.json"
+        ]
+      }
+    },
+    {
+      "name": "Sandstonedye",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sandstonedye",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/sandstonedye.json"
+        ]
+      }
+    },
+    {
+      "name": "Shulkerred",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shulkerred",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/shulkerred.json"
+        ]
+      }
+    },
+    {
+      "name": "Shulkergreen",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shulkergreen",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/shulkergreen.json"
+        ]
+      }
+    },
+    {
+      "name": "Shulkerblue",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shulkerblue",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/shulkerblue.json"
+        ]
+      }
+    },
+    {
+      "name": "Shulkerlightblue",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shulkerlightblue",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/shulkerlightblue.json"
+        ]
+      }
+    },
+    {
+      "name": "Shulkerlime",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shulkerlime",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/shulkerlime.json"
+        ]
+      }
+    },
+    {
+      "name": "Shulkerpurple",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shulkerpurple",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/shulkerpurple.json"
+        ]
+      }
+    },
+    {
+      "name": "Shulkerpink",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shulkerpink",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/shulkerpink.json"
+        ]
+      }
+    },
+    {
+      "name": "Shulkerorange",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shulkerorange",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/shulkerorange.json"
+        ]
+      }
+    },
+    {
+      "name": "Shulkerwhite",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shulkerwhite",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/shulkerwhite.json"
+        ]
+      }
+    },
+    {
+      "name": "Shulkerblack",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shulkerblack",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/shulkerblack.json"
+        ]
+      }
+    },
+    {
+      "name": "Shulkercyan",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shulkercyan",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/shulkercyan.json"
+        ]
+      }
+    },
+    {
+      "name": "Shulkermagenta",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shulkermagenta",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/shulkermagenta.json"
+        ]
+      }
+    },
+    {
+      "name": "Shulkergrey",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shulkergrey",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/shulkergrey.json"
+        ]
+      }
+    },
+    {
+      "name": "Shulkerlightgrey",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shulkerlightgrey",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/shulkerlightgrey.json"
+        ]
+      }
+    },
+    {
+      "name": "Shulkerbrown",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shulkerbrown",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/shulkerbrown.json"
+        ]
+      }
+    },
+    {
+      "name": "Shulkeryellow",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shulkeryellow",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/shulkeryellow.json"
+        ]
+      }
+    },
+    {
+      "name": "Rawblocksmelt",
+      "type": "achievement",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rawblocksmelt",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/advancement/rawblocksmelt.json"
+        ]
+      }
+    },
+    {
+      "name": "Stupididea",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stupididea",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/easyscrap.json"
+        ]
+      }
+    },
+    {
+      "name": "Bulkchains",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bulkchains",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/bulkchains.json"
+        ]
+      }
+    },
+    {
+      "name": "EasyTNTminecart",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "easy_tn_tminecart",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/easy_tnt_tminecart.json"
+        ]
+      }
+    },
+    {
+      "name": "Easyfunaceminecart",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "easyfunaceminecart",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/easyfunaceminecart.json"
+        ]
+      }
+    },
+    {
+      "name": "Easychestminecart",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "easychestminecart",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/easychestminecart.json"
+        ]
+      }
+    },
+    {
+      "name": "Easyhopperminecart",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "easyhopperminecart",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/easyhopperminecart.json"
+        ]
+      }
+    },
+    {
+      "name": "Craftablerooteddirt",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftablerooteddirt",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/craftablerooteddirt.json"
+        ]
+      }
+    },
+    {
+      "name": "Craftablecobweb",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftablecobweb",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/craftablecobweb.json"
+        ]
+      }
+    },
+    {
+      "name": "Craftableballs",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftableballs",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/craftableballs.json"
+        ]
+      }
+    },
+    {
+      "name": "Unpackablesandstone",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "unpackablesandstone",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/unpackablesandstone.json"
+        ]
+      }
+    },
+    {
+      "name": "Unpackableredsandstone",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "unpackableredsandstone",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/unpackableredsandstone.json"
+        ]
+      }
+    },
+    {
+      "name": "Craftablenylium1",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftablenylium_1",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/craftablenylium_1.json"
+        ]
+      }
+    },
+    {
+      "name": "Craftablenylium2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftablenylium_2",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/craftablenylium_2.json"
+        ]
+      }
+    },
+    {
+      "name": "Usableskeletonskull",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "usableskeletonskull",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/usableskeletonskull.json"
+        ]
+      }
+    },
+    {
+      "name": "Massminecarts",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "massminecarts",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/massminecarts.json"
+        ]
+      }
+    },
+    {
+      "name": "CraftFlint",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craft_flint",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/craft_flint.json"
+        ]
+      }
+    },
+    {
+      "name": "Wool2String",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wool_2_string",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/wool_2_string.json"
+        ]
+      }
+    },
+    {
+      "name": "CraftableSculk",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftable_sculk",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/craftable_sculk.json"
+        ]
+      }
+    },
+    {
+      "name": "CraftableNetherVines1",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftable_nether_vines_1",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/craftable_nether_vines_1.json"
+        ]
+      }
+    },
+    {
+      "name": "CraftableNetherVines2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftable_nether_vines_2",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/craftable_nether_vines_2.json"
+        ]
+      }
+    },
+    {
+      "name": "SmeltingDeadBushes",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smelting_dead_bushes",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/smoking_dead_bushes.json"
+        ]
+      }
+    },
+    {
+      "name": "QuartzBlockToQuartz",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "quartz_block_to_quartz",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/quartz_block_to_quartz.json"
+        ]
+      }
+    },
+    {
+      "name": "Anyglassbeacom",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "anyglassbeacom",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/anyglassbeacom.json"
+        ]
+      }
+    },
+    {
+      "name": "CraftableMushroomBlock1",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftable_mushroom_block_1",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/craftable_mushroom_block_1.json"
+        ]
+      }
+    },
+    {
+      "name": "CraftableMushroomBlock2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftable_mushroom_block_2",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/craftable_mushroom_block_2.json"
+        ]
+      }
+    },
+    {
+      "name": "HoneycombBlockToItem",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "honeycomb_block_to_item",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/honeycomb_block_to_item.json"
+        ]
+      }
+    },
+    {
+      "name": "UncraftMelons",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uncraft_melons",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/uncraft_melons.json"
+        ]
+      }
+    },
+    {
+      "name": "BulkWeightedPresurePlatesIron",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bulk_weighted_presure_plates_iron",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/bulk_weighted_presure_plates_iron.json"
+        ]
+      }
+    },
+    {
+      "name": "BulkWeightedPresurePlatesGold",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bulk_weighted_presure_plates_gold",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/bulk_weighted_presure_plates_gold.json"
+        ]
+      }
+    },
+    {
+      "name": "BulkCauldrons",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bulk_cauldrons",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/bulk_cauldrons.json"
+        ]
+      }
+    },
+    {
+      "name": "UncraftableWarts1",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uncraftable_warts_1",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/uncraftable_warts_1.json"
+        ]
+      }
+    },
+    {
+      "name": "UncraftableWarts2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uncraftable_warts_2",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/uncraftable_warts_2.json"
+        ]
+      }
+    },
+    {
+      "name": "CraftableWartBlocks1",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftable_wart_blocks_1",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/craftable_wart_blocks_1.json"
+        ]
+      }
+    },
+    {
+      "name": "CraftableWartBlocks2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftable_wart_blocks_2",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/craftable_wart_blocks_2.json"
+        ]
+      }
+    },
+    {
+      "name": "URedWool",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_red_wool",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_red_wool.json"
+        ]
+      },
+      "path": "~/Universal Wool Dying"
+    },
+    {
+      "name": "UOrangeWool",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_orange_wool",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_orange_wool.json"
+        ]
+      },
+      "path": "~/Universal Wool Dying"
+    },
+    {
+      "name": "UYellowWool",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_yellow_wool",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_yellow_wool.json"
+        ]
+      },
+      "path": "~/Universal Wool Dying"
+    },
+    {
+      "name": "ULimeWool",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_lime_wool",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_lime_wool.json"
+        ]
+      },
+      "path": "~/Universal Wool Dying"
+    },
+    {
+      "name": "UGreenWool",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_green_wool",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_green_wool.json"
+        ]
+      },
+      "path": "~/Universal Wool Dying"
+    },
+    {
+      "name": "UCyanWool",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_cyan_wool",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_cyan_wool.json"
+        ]
+      },
+      "path": "~/Universal Wool Dying"
+    },
+    {
+      "name": "ULightBlueWool",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_light_blue_wool",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_light_blue_wool.json"
+        ]
+      },
+      "path": "~/Universal Wool Dying"
+    },
+    {
+      "name": "UBlueWool",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_blue_wool",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_blue_wool.json"
+        ]
+      },
+      "path": "~/Universal Wool Dying"
+    },
+    {
+      "name": "AnyStoneFurnace",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "any_stone_furnace",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/any_stone_furnace.json"
+        ]
+      }
+    },
+    {
+      "name": "AnyStoneSword",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "any_stone_sword",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/any_stone_sword.json"
+        ]
+      }
+    },
+    {
+      "name": "AnyStoneShovel",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "any_stone_shovel",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/any_stone_shovel.json"
+        ]
+      }
+    },
+    {
+      "name": "AnyStonePickaxe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "any_stone_pickaxe",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/any_stone_pickaxe.json"
+        ]
+      }
+    },
+    {
+      "name": "AnyStoneAxe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "any_stone_axe",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/any_stone_axe.json"
+        ]
+      }
+    },
+    {
+      "name": "AnyStoneHoe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "any_stone_hoe",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/any_stone_hoe.json"
+        ]
+      }
+    },
+    {
+      "name": "UPurpleWool",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_purple_wool",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_purple_wool.json"
+        ]
+      },
+      "path": "~/Universal Wool Dying"
+    },
+    {
+      "name": "UMagentaWool",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_magenta_wool",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_magenta_wool.json"
+        ]
+      },
+      "path": "~/Universal Wool Dying"
+    },
+    {
+      "name": "UPinkWool",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_pink_wool",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_pink_wool.json"
+        ]
+      },
+      "path": "~/Universal Wool Dying"
+    },
+    {
+      "name": "UWhiteWool",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_white_wool",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_white_wool.json"
+        ]
+      },
+      "path": "~/Universal Wool Dying"
+    },
+    {
+      "name": "ULightGrayWool",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_light_gray_wool",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_light_gray_wool.json"
+        ]
+      },
+      "path": "~/Universal Wool Dying"
+    },
+    {
+      "name": "UGrayWool",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_gray_wool",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_gray_wool.json"
+        ]
+      },
+      "path": "~/Universal Wool Dying"
+    },
+    {
+      "name": "UBlackWool",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_black_wool",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_black_wool.json"
+        ]
+      },
+      "path": "~/Universal Wool Dying"
+    },
+    {
+      "name": "UBrownWool",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_brown_wool",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_brown_wool.json"
+        ]
+      },
+      "path": "~/Universal Wool Dying"
+    },
+    {
+      "name": "URedCarpet",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_red_carpet",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_red_carpet.json"
+        ]
+      },
+      "path": "~/Universal Carpet Dying"
+    },
+    {
+      "name": "UOrangeCarpet",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_orange_carpet",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_orange_carpet.json"
+        ]
+      },
+      "path": "~/Universal Carpet Dying"
+    },
+    {
+      "name": "UYellowCarpet",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_yellow_carpet",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_yellow_carpet.json"
+        ]
+      },
+      "path": "~/Universal Carpet Dying"
+    },
+    {
+      "name": "ULimeCarpet",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_lime_carpet",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_lime_carpet.json"
+        ]
+      },
+      "path": "~/Universal Carpet Dying"
+    },
+    {
+      "name": "UGreenCarpet",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_green_carpet",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_green_carpet.json"
+        ]
+      },
+      "path": "~/Universal Carpet Dying"
+    },
+    {
+      "name": "UCyanCarpet",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_cyan_carpet",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_cyan_carpet.json"
+        ]
+      },
+      "path": "~/Universal Carpet Dying"
+    },
+    {
+      "name": "ULightBlueCarpet",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_light_blue_carpet",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_light_blue_carpet.json"
+        ]
+      },
+      "path": "~/Universal Carpet Dying"
+    },
+    {
+      "name": "UBlueCarpet",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_blue_carpet",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_blue_carpet.json"
+        ]
+      },
+      "path": "~/Universal Carpet Dying"
+    },
+    {
+      "name": "UMagentaCarpet",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_magenta_carpet",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_magenta_carpet.json"
+        ]
+      },
+      "path": "~/Universal Carpet Dying"
+    },
+    {
+      "name": "UPurpleCarpet",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_purple_carpet",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_purple_carpet.json"
+        ]
+      },
+      "path": "~/Universal Carpet Dying"
+    },
+    {
+      "name": "UPinkCarpet",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_pink_carpet",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_pink_carpet.json"
+        ]
+      },
+      "path": "~/Universal Carpet Dying"
+    },
+    {
+      "name": "UWhiteCarpet",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_white_carpet",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_white_carpet.json"
+        ]
+      },
+      "path": "~/Universal Carpet Dying"
+    },
+    {
+      "name": "ULightGrayCarpet",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_light_gray_carpet",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_light_gray_carpet.json"
+        ]
+      },
+      "path": "~/Universal Carpet Dying"
+    },
+    {
+      "name": "UGrayCarpet",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_gray_carpet",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_gray_carpet.json"
+        ]
+      },
+      "path": "~/Universal Carpet Dying"
+    },
+    {
+      "name": "UBlackCarpet",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_black_carpet",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_black_carpet.json"
+        ]
+      },
+      "path": "~/Universal Carpet Dying"
+    },
+    {
+      "name": "UBrownCarpet",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_brown_carpet",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_brown_carpet.json"
+        ]
+      },
+      "path": "~/Universal Carpet Dying"
+    },
+    {
+      "name": "URedTerracotta",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_red_terracotta",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_red_terracotta.json"
+        ]
+      },
+      "path": "~/Universal Terracota"
+    },
+    {
+      "name": "UOrangeTerracotta",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_orange_terracotta",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_orange_terracotta.json"
+        ]
+      },
+      "path": "~/Universal Terracota"
+    },
+    {
+      "name": "UYellowTerracotta",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_yellow_terracotta",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_yellow_terracotta.json"
+        ]
+      },
+      "path": "~/Universal Terracota"
+    },
+    {
+      "name": "ULimeTerracotta",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_lime_terracotta",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_lime_terracotta.json"
+        ]
+      },
+      "path": "~/Universal Terracota"
+    },
+    {
+      "name": "UGreenTerracotta",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_green_terracotta",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_green_terracotta.json"
+        ]
+      },
+      "path": "~/Universal Terracota"
+    },
+    {
+      "name": "UCyanTerracotta",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_cyan_terracotta",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_cyan_terracotta.json"
+        ]
+      },
+      "path": "~/Universal Terracota"
+    },
+    {
+      "name": "ULightBlueTerracotta",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_light_blue_terracotta",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_light_blue_terracotta.json"
+        ]
+      },
+      "path": "~/Universal Terracota"
+    },
+    {
+      "name": "UBlueTerracotta",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_blue_terracotta",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_blue_terracotta.json"
+        ]
+      },
+      "path": "~/Universal Terracota"
+    },
+    {
+      "name": "UPinkTerracotta",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_pink_terracotta",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_pink_terracotta.json"
+        ]
+      },
+      "path": "~/Universal Terracota"
+    },
+    {
+      "name": "UMagentaTerracotta",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_magenta_terracotta",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_magenta_terracotta.json"
+        ]
+      },
+      "path": "~/Universal Terracota"
+    },
+    {
+      "name": "UPurpleTerracotta",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_purple_terracotta",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_purple_terracotta.json"
+        ]
+      },
+      "path": "~/Universal Terracota"
+    },
+    {
+      "name": "UBrownTerracotta",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_brown_terracotta",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_brown_terracotta.json"
+        ]
+      },
+      "path": "~/Universal Terracota"
+    },
+    {
+      "name": "UBlackTerracotta",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_black_terracotta",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_black_terracotta.json"
+        ]
+      },
+      "path": "~/Universal Terracota"
+    },
+    {
+      "name": "UWhiteTerracotta",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_white_terracotta",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_white_terracotta.json"
+        ]
+      },
+      "path": "~/Universal Terracota"
+    },
+    {
+      "name": "ULightGrayTerracotta",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_light_gray_terracotta",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_light_gray_terracotta.json"
+        ]
+      },
+      "path": "~/Universal Terracota"
+    },
+    {
+      "name": "UGrayTerracotta",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_gray_terracotta",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_gray_terracotta.json"
+        ]
+      },
+      "path": "~/Universal Terracota"
+    },
+    {
+      "name": "URedGlass",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_red_glass",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_red_glass.json"
+        ]
+      },
+      "path": "~/Universal Glass"
+    },
+    {
+      "name": "UOrangeGlass",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_orange_glass",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_orange_glass.json"
+        ]
+      },
+      "path": "~/Universal Glass"
+    },
+    {
+      "name": "UYellowGlass",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_yellow_glass",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_yellow_glass.json"
+        ]
+      },
+      "path": "~/Universal Glass"
+    },
+    {
+      "name": "ULimeGlass",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_lime_glass",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_lime_glass.json"
+        ]
+      },
+      "path": "~/Universal Glass"
+    },
+    {
+      "name": "UGreenGlass",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_green_glass",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_green_glass.json"
+        ]
+      },
+      "path": "~/Universal Glass"
+    },
+    {
+      "name": "UCyanGlass",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_cyan_glass",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_cyan_glass.json"
+        ]
+      },
+      "path": "~/Universal Glass"
+    },
+    {
+      "name": "ULightBlueGlass",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_light_blue_glass",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_light_blue_glass.json"
+        ]
+      },
+      "path": "~/Universal Glass"
+    },
+    {
+      "name": "UBlueGlass",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_blue_glass",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_blue_glass.json"
+        ]
+      },
+      "path": "~/Universal Glass"
+    },
+    {
+      "name": "UPinkGlass",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_pink_glass",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_pink_glass.json"
+        ]
+      },
+      "path": "~/Universal Glass"
+    },
+    {
+      "name": "UMagentaGlass",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_magenta_glass",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_magenta_glass.json"
+        ]
+      },
+      "path": "~/Universal Glass"
+    },
+    {
+      "name": "UPurpleGlass",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_purple_glass",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_purple_glass.json"
+        ]
+      },
+      "path": "~/Universal Glass"
+    },
+    {
+      "name": "UWhiteGlass",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_white_glass",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_white_glass.json"
+        ]
+      },
+      "path": "~/Universal Glass"
+    },
+    {
+      "name": "UBrownGlass",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_brown_glass",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_brown_glass.json"
+        ]
+      },
+      "path": "~/Universal Glass"
+    },
+    {
+      "name": "UBlackGlass",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_black_glass",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_black_glass.json"
+        ]
+      },
+      "path": "~/Universal Glass"
+    },
+    {
+      "name": "ULightGrayGlass",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_light_gray_glass",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_light_gray_glass.json"
+        ]
+      },
+      "path": "~/Universal Glass"
+    },
+    {
+      "name": "UGrayGlass",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_gray_glass",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_gray_glass.json"
+        ]
+      },
+      "path": "~/Universal Glass"
+    },
+    {
+      "name": "URedCandle",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_red_candle",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_red_candle.json"
+        ]
+      },
+      "path": "~/Univeral Candles"
+    },
+    {
+      "name": "UOrangeCandle",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_orange_candle",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_orange_candle.json"
+        ]
+      },
+      "path": "~/Univeral Candles"
+    },
+    {
+      "name": "UYellowCandle",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_yellow_candle",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_yellow_candle.json"
+        ]
+      },
+      "path": "~/Univeral Candles"
+    },
+    {
+      "name": "ULimeCandle",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_lime_candle",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_lime_candle.json"
+        ]
+      },
+      "path": "~/Univeral Candles"
+    },
+    {
+      "name": "UGreenCandle",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_green_candle",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_green_candle.json"
+        ]
+      },
+      "path": "~/Univeral Candles"
+    },
+    {
+      "name": "UCyanCandle",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_cyan_candle",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_cyan_candle.json"
+        ]
+      },
+      "path": "~/Univeral Candles"
+    },
+    {
+      "name": "ULightBlueCandle",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_light_blue_candle",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_light_blue_candle.json"
+        ]
+      },
+      "path": "~/Univeral Candles"
+    },
+    {
+      "name": "UBlueCandle",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_blue_candle",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_blue_candle.json"
+        ]
+      },
+      "path": "~/Univeral Candles"
+    },
+    {
+      "name": "UPinkCandle",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_pink_candle",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_pink_candle.json"
+        ]
+      },
+      "path": "~/Univeral Candles"
+    },
+    {
+      "name": "UMagentaCandle",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_magenta_candle",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_magenta_candle.json"
+        ]
+      },
+      "path": "~/Univeral Candles"
+    },
+    {
+      "name": "UPurpleCandle",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_purple_candle",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_purple_candle.json"
+        ]
+      },
+      "path": "~/Univeral Candles"
+    },
+    {
+      "name": "UBrownCandle",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_brown_candle",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_brown_candle.json"
+        ]
+      },
+      "path": "~/Univeral Candles"
+    },
+    {
+      "name": "UWhiteCandle",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_white_candle",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_white_candle.json"
+        ]
+      },
+      "path": "~/Univeral Candles"
+    },
+    {
+      "name": "ULightGrayCandle",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_light_gray_candle",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_light_gray_candle.json"
+        ]
+      },
+      "path": "~/Univeral Candles"
+    },
+    {
+      "name": "UGrayCandle",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_gray_candle",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_gray_candle.json"
+        ]
+      },
+      "path": "~/Univeral Candles"
+    },
+    {
+      "name": "UBlackCandle",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_black_candle",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_black_candle.json"
+        ]
+      },
+      "path": "~/Univeral Candles"
+    },
+    {
+      "name": "URedBanner",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_red_banner",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_red_banner.json"
+        ]
+      },
+      "path": "~/Universal Banners"
+    },
+    {
+      "name": "UOrangeBanner",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_orange_banner",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_orange_banner.json"
+        ]
+      },
+      "path": "~/Universal Banners"
+    },
+    {
+      "name": "UYellowBanner",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_yellow_banner",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_yellow_banner.json"
+        ]
+      },
+      "path": "~/Universal Banners"
+    },
+    {
+      "name": "ULimeBanner",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_lime_banner",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_lime_banner.json"
+        ]
+      },
+      "path": "~/Universal Banners"
+    },
+    {
+      "name": "UGreenBanner",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_green_banner",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_green_banner.json"
+        ]
+      },
+      "path": "~/Universal Banners"
+    },
+    {
+      "name": "UCyanBanner",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_cyan_banner",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_cyan_banner.json"
+        ]
+      },
+      "path": "~/Universal Banners"
+    },
+    {
+      "name": "ULightBlueBanner",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_light_blue_banner",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_light_blue_banner.json"
+        ]
+      },
+      "path": "~/Universal Banners"
+    },
+    {
+      "name": "UBlueBanner",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_blue_banner",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_blue_banner.json"
+        ]
+      },
+      "path": "~/Universal Banners"
+    },
+    {
+      "name": "UPinkBanner",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_pink_banner",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_pink_banner.json"
+        ]
+      },
+      "path": "~/Universal Banners"
+    },
+    {
+      "name": "UMagentaBanner",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_magenta_banner",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_magenta_banner.json"
+        ]
+      },
+      "path": "~/Universal Banners"
+    },
+    {
+      "name": "UPurpleBanner",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_purple_banner",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_purple_banner.json"
+        ]
+      },
+      "path": "~/Universal Banners"
+    },
+    {
+      "name": "UBrownBanner",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_brown_banner",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_brown_banner.json"
+        ]
+      },
+      "path": "~/Universal Banners"
+    },
+    {
+      "name": "UWhiteBanner",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_white_banner",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_white_banner.json"
+        ]
+      },
+      "path": "~/Universal Banners"
+    },
+    {
+      "name": "ULightGrayBanner",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_light_gray_banner",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_light_gray_banner.json"
+        ]
+      },
+      "path": "~/Universal Banners"
+    },
+    {
+      "name": "UGrayBanner",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_gray_banner",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_gray_banner.json"
+        ]
+      },
+      "path": "~/Universal Banners"
+    },
+    {
+      "name": "UBlackBanner",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "u_black_banner",
+      "metadata": {
+        "files": [
+          "src/main/data/crafting_qol/recipe/u_black_banner.json"
+        ]
+      },
+      "path": "~/Universal Banners"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {}
+  },
+  "metadata": {
+    "files": [
+      "src/main/pack.mcmeta"
+    ]
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Universal Wool Dying",
+        "children": []
+      },
+      {
+        "name": "Universal Carpet Dying",
+        "children": []
+      },
+      {
+        "name": "Universal Terracota",
+        "children": []
+      },
+      {
+        "name": "Universal Glass",
+        "children": []
+      },
+      {
+        "name": "Univeral Candles",
+        "children": []
+      },
+      {
+        "name": "Universal Banners",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "crafting_qol",
+    "modName": "Crafting QOL",
+    "version": "2.7.0",
+    "description": "A small mod adding a few more crafting recipes",
+    "author": "Endrock6",
+    "websiteURL": "https://modrinth.com/datapack/crafting-qol",
+    "license": "Apache License version 2.0",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "datapack-26.1.x",
+    "credits": "Made by Endrock6 using MCreator",
+    "modElementsPackage": "net.crafting.qol"
+  },
+  "mcreatorVersion": 202600233518
+}
